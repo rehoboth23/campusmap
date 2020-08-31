@@ -1,0 +1,9 @@
+I added three vertices:
+Baker
+South Fayerweather
+Sarner
+
+I updated the select start, select goal and draw paths to include the names of the start. goal amd nodes on the path
+
+I changed the vertex class adding a v-type which based on a relation to its adjacents divides the routes into major and
+minor routes(short roads) drawing main buildings in a different color from side entrances and main routes in a different color from side routes.

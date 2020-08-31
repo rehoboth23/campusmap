@@ -1,0 +1,82 @@
+Green Southwest; Robinson/Collis, Green South, Green West, Green Center, Green East; 510, 798; Minor
+Green Southeast; Green South, Green East, New Hamp, Green Center; 647, 793; Minor
+Green Center; Green East, Green West, Green Southeast, Green Southwest, Green Northeast, Green Northwest; 576, 711; Major
+Green Northeast; Rauner, Green North, Wentworth, South Fayerweather, Green East, Green Center; 636, 619; Minor
+Green Northwest; Sanborn, Green North, North Mass, Green West, Green Center, Baker, Green East; 503, 622; Minor
+Green West; Robinson/Collis, Green Center, South Mass, Green Northwest, Green Southwest; 503, 710; Major
+Green East; Green Center, Green Southeast, Green Northeast, Green Southwest, Green Northwest,  South Fayerweather, Observatory Rd; 641, 707; Major
+Observatory Rd; Gym, New Hamp, Green East, South Fayerweather, North Fayerweather; 809, 751; Major
+XH; Gym, East Wheelock; 932, 705; Minor
+Gym; XH, Observatory Rd, Fayerweather; 873, 725; Major
+New Hamp; Observatory Rd, Green Southeast; 739, 773; Major
+Green North; Green Northeast, Green Northwest, Baker; 570, 618; Major
+Green South; Green Southeast, Green Southwest; 580, 798; Major
+Fayerweather; North Fayerweather, Gym; 844, 644; Major
+East Wheelock; XH, Brace; 993, 687; Major
+Brace; East Wheelock; 958, 623; Minor
+Blunt; Silsby, Butterfield, Baker West, North Mass; 423, 508; Major
+Baker West; Sanborn, Silsby, Blunt, Carson, Baker; 496, 504; Minor
+Sanborn; Baker West, Green Northwest, Baker, North Mass; 498, 560; Minor
+Butterfield; Gold Coast, Blunt, FDA; 359, 509; Minor
+Gold Coast; Tuck Dr, Butterfield; 295, 509; Minor
+Tuck Dr; Gold Coast, Buchanan; 240, 509; Minor
+Buchanan; Tuck Dr, Thayer, Tuck, Murdough; 178, 509; Minor
+Tuck; Murdough, Buchanan; 116, 487; Major
+Thayer; Murdough, Cummings, Buchanan; 127, 548; Major
+Murdough; Tuck, Thayer, Cummings, Buchanan; 84, 523; Major
+Cummings; Thayer, Murdough; 86, 589; Minor
+Carson; Rocky, Kemeny, Berry, Silsby, Baker West; 495, 413; Major
+Rocky; FDA, Silsby, Carson; 421, 389; Major
+Silsby; Rocky, Carson, Baker West, Blunt; 451, 459; Minor
+FDA; Bones Gate, Rocky, Butterfield; 365, 374; Major
+Bones Gate; FDA, KDE; 314, 358; Minor
+KDE; Bones Gate, AXA; 262, 337; Minor
+AXA; KDE, AQ; 205, 321; Minor
+Kemeny; Choate House, Carson; 499, 333; Major
+Rauner; Green Northeast, Wheeler, Baker, Richardson; 637, 556; Minor
+Wheeler; Steele, Rauner, Wilder, Berry; 646, 485; Major
+Wilder; Richardson, Steele, Wheeler; 730, 477; Major
+Steele; Wheeler, Wilder, Fairchild, Parker House; 681, 434; Major
+Richardson; Wilder, Wentworth, Rauner; 725, 533; Major
+Wentworth; Green Northeast, South Fayerweather, North Fayerweather, Richardson; 727, 606; Major
+Fairchild; Burke, Steele; 729, 381; Major
+Burke; Sudikoff, Bildner, Fairchild; 775, 327; Major
+Sudikoff; McLaughlin, Raven, Burke, Parker House; 736, 288; Major
+Raven; Goldstein, Sudikoff, Moore, Parker House; 696, 251; Minor
+Choate House; LALACS, Kemeny, Choates; 535, 269; Minor
+LALACS; Sherman, Choate House; 568, 220; Major
+Sherman; LALACS, Rope Ferry, Moore; 595, 177; Minor
+Moore; Sherman, Raven; 644, 213; Major
+Rope Ferry; Sherman, Dicks House; 625, 129; Major
+Dicks House; 11 Rope Ferry, Rope Ferry; 657, 81; Major
+11 Rope Ferry; Dicks House; 686, 46; Minor
+Bildner; Gilman, Burke; 819, 280; Minor
+Gilman; Dana, Bildner, McLaughlin, Kellogg; 858, 233; Major
+Dana; Gilman, Traffic Light, LSC West, LSC East; 901, 206; Major
+Traffic Light; LSC East, Dana, LSC West; 975, 183; Minor
+LSC North; LSC East, LSC West; 936, 71; Major
+LSC West; LSC North, Traffic Light, Dana; 924, 121; Minor
+LSC East; LSC North, Traffic Light, Dana; 960, 115; Minor
+AQ; DDD, AXA; 126, 255; Major
+DDD; Roth Center, AQ; 187, 211; Minor
+Roth Center; DDD; 231, 167; Major
+Choates; Dean's House, Choate House; 409, 217; Major
+Dean's House; Choates; 350, 142; Major
+McLaughlin; Sudikoff, Gilman; 767, 247; Major
+Kellogg; Gilman, Goldstein; 807, 135; Major
+Observatory; North Fayerweather, Dragon; 787, 541; Major
+Bema; North Fayerweather; 918, 529; Major
+North Fayerweather; Wentworth, Observatory, Fayerweather,  South Fayerweather, Observatory Rd, Bema; 780, 608; Minor
+South Fayerweather; North Fayerweather, Green East, Observatory Rd, Wentworth, Green Northeast; 770, 728; Minor
+Dragon; Observatory; 856, 331; Major
+Baker; Rauner, Sanborn, Green North, Green Northwest, Berry; 567, 519; Major
+Berry; Carson, Wheeler, Parker House, Baker, Baker West; 577, 419; Major
+Parker House; Raven, Sudikoff, Steele, Berry; 649, 313; Minor
+Goldstein; Raven, Kellogg, 37 Dewey Field; 722, 207; Major
+37 Dewey Field; Goldstein; 752, 96; Minor
+North Mass; Mid Mass, Green Northwest, Sanborn, Blunt; 426, 603; Major
+South Mass; 1953 Commons, Mid Mass, Green West; 430, 717; Major
+Mid Mass; North Mass, South Mass; 426, 657; Major
+1953 Commons; South Mass, Robinson/Collis, Sarner; 429, 747; Major
+Robinson/Collis; Green West, 1953 Commons, Green Southwest, Sarner; 480, 753; Major
+Sarner; Robinson/Collis, 1953 Commons; 381, 779; Minor
